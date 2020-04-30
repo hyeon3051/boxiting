@@ -1,5 +1,5 @@
-git adit commit
+git adit commit log
 시간 여행이 가능하다
 커밋으로 만들길 원하는 파일만 선택 add
-
-
+git push(github 에 올리는 시스템)
+clone push pull
